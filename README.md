@@ -1,6 +1,6 @@
-# React ToDo App
+# Project  - React ToDo App
 
-## Installation
+## Procedure - Installation and run the project
 
 1 Clone repository
 
