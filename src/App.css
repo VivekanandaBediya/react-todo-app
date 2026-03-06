@@ -1,0 +1,29 @@
+body{
+  font-family: Arial;
+  background:#f4f4f4;
+}
+
+.container{
+  width:400px;
+  margin:auto;
+  text-align:center;
+}
+
+input{
+  padding:8px;
+  width:70%;
+}
+
+button{
+  margin:5px;
+  padding:6px 10px;
+}
+
+li{
+  list-style:none;
+  padding:8px;
+  background:white;
+  margin:5px;
+  display:flex;
+  justify-content:space-between;
+}
